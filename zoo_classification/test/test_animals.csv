@@ -1,0 +1,4 @@
+animal_name,hair,feathers,eggs,milk,airborne,aquatic,predator,toothed,backbone,breathes,venomous,fins,legs,tail,domestic,catsize
+lion,1,0,0,1,0,0,1,1,1,1,0,0,4,1,0,1
+eagle,0,1,1,0,1,0,1,0,1,1,0,0,2,1,0,0
+shark,0,0,1,0,0,1,1,1,1,0,1,1,0,1,0,0
